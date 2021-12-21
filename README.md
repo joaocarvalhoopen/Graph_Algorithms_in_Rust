@@ -15,6 +15,7 @@ The algorithms are listed bellow.
 ## Graph's described in the following way
 
 See the reference **Macro to implement a clean syntax graphs** below. <br>
+[Macro code](./src/utils.rs) <br>
 <br>
 
 ```Rust
